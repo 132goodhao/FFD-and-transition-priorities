@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data/
+outputs/
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.pickle
+*.xls
+*.xlsm
+*.xlsx
+!/supplementary/Supplementary_Data.xlsx
